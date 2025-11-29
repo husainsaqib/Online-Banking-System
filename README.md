@@ -39,11 +39,11 @@ Category	Features
 
 🛡️ Security	CORS protected, input validation, secure password storage
 
-📂 Project Structure
-SecureNet-Banking/
+📂 Project Structure SecureNet-Banking/
+
 │
-├── backend/             
-→ Spring Boot REST API
+├── backend/ → Spring Boot REST API
+
 
 │   ├── src/main/java/com/bank
 │   ├── src/main/resources
