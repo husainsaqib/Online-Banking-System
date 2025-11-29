@@ -26,16 +26,25 @@ Docker & Docker Compose (Optional)
 Postman Collection (API Testing)
 
 🌟 Features
+
 Category	Features
+
 🔐 Authentication	JWT-based login, Password encryption (BCrypt), Role-based access
+
 💳 Account Management	View balance, account details, profile management
+
 💸 Money Transfer	Secure fund transfers with validations
+
 📜 Transaction History	Track successful transfers
+
 🛡️ Security	CORS protected, input validation, secure password storage
+
 📂 Project Structure
 SecureNet-Banking/
 │
-├── backend/                → Spring Boot REST API
+├── backend/             
+→ Spring Boot REST API
+
 │   ├── src/main/java/com/bank
 │   ├── src/main/resources
 │   └── pom.xml
