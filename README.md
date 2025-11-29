@@ -1,5 +1,7 @@
 # Online-Banking-System
 Developed a secure online banking web application enabling users to create accounts, manage balances, transfer funds, and view transaction history. Implemented Spring Boot for backend APIs, MySQL for data persistence, and applied authentication/authorization to ensure safe access and operations.
+
+
 🔐 SecureNet Banking – Online Banking System
 
 SecureNet Banking is a secure and scalable Online Banking Web Application built with Spring Boot, React, and JWT token-based authentication.
